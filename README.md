@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
 
 <img width="150" src="https://github.com/UltimMC/Launcher/assets/62727185/48d60c15-23ae-4d48-84b8-813f72db6cdd">
 
